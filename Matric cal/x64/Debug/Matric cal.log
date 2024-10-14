@@ -1,0 +1,22 @@
+﻿  Matric cal.cpp
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(22,38): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(22,27): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(46,26): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(55,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(56,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(61,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(62,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(72,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(73,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(78,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(79,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(89,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(90,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(95,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(96,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(109,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(110,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(118,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(119,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\matas\Desktop\Matric cal\Matric cal\Matric cal.cpp(439,34): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  Matric cal.vcxproj -> C:\Users\matas\Desktop\Matric cal\x64\Debug\Matric cal.exe
